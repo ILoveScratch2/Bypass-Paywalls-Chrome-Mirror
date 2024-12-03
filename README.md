@@ -3,6 +3,7 @@
 ## Description
 
 This is a mirror of the official repository of Bypass Paywalls Chrome extension.
+
 The [Origin repository](bypass-paywalls-chrome) had been taken down due to DMCA takedown request.
 
 > [!WARNING]
